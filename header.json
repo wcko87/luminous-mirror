@@ -33,7 +33,7 @@
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
-  "data_url": "https:\/\/luminous-api.herokuapp.com\/api\/charts\/accept",
+  "data_url": "https://raw.githubusercontent.com/wcko87/luminous-mirror/main/accept.json",
   "compat_prefix": "ln",
   "last_update": "2022\/10\/10",
   "editor_name": "BeMusicSeeker",
